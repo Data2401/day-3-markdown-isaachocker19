@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Isaac Hocker"
 date: "Data 2401"
 output: html_document
 ---
@@ -22,9 +22,35 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 
 1. Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
+## My work here
+
+## Wise words
+> "The only easy day was yesterday."
+[More about this quote](https://www.scottmiker.com/improving-systems-and-habits/the-only-easy-day-was-yesterday)
+
 2. Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
 
+
+### My semester
+| **Course Number** | _Course Title_ |      Instructor    |  
+|:------------------|:----------------|:------------------|
+| **Data 2401**     | _Data_          | Prof. Shoemaker   |
+| **Math 2307**     | _Linear Algebra_| Prof. Jedgic    |
+| **Math 2401**     | _Calculus 1_    | Prof. Oke   |
+
 3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
+
+### I recommend
+
+
+#### Kentaro Miura
+*Example of his writing from Berserk:*
+> "The right man in the wrong place can make all the difference in the world."
+
+
+*Some of his work includes:*
+- *Berserk* 
+- *Giganto Maxia*
 
 - A _subsubheading_ with the name of the artist or author;    
 - An example of their writing or lyrics (formatted in a *block of text*);   
